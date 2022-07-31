@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cristian-Bui
 - 👀 I’m interested in Coding and learning.
-- 🌱 I’m currently learning c++, css/html, javscript, and python.
+- 🌱 I’m currently learning C++, css/html, Javascript, and Python.
 - 📓 I'm looking to collaborate on beginner projects to expand my toolset, and make new connections.
 - 📫 How to reach me cristian.buitrago420@gmail.com
 
